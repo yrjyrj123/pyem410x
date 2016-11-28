@@ -1,1 +1,1 @@
-from core import encode,decode
+from .core import encode,decode
